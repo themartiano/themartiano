@@ -6,7 +6,7 @@
 
 <br />
 
-<p align="center"><a href="https://github.com/brhaka?tab=repositories"><img src="https://img.shields.io/badge/Repo%20count-76-brightgreen.svg?style=for-the-badge" /></a></p>
+<p align="center"><a href="https://github.com/brhaka?tab=repositories"><img src="https://img.shields.io/badge/Repo%20count-83-brightgreen.svg?style=for-the-badge" /></a></p>
 <p align="center"><a href="https://github.com/brhaka"><img src="https://komarev.com/ghpvc/?username=brhaka&label=Profile%20views&color=0e75b6" alt="brhaka" /></a></p>
 
 ---
