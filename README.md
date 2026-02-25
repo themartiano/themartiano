@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Eduardo 👋
+# I'm Eduardo 👋
 
 <br>
 
