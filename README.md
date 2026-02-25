@@ -2,13 +2,15 @@
 
 # Hey, I'm Eduardo 👋
 
-**Founder @ Carbon**
+<br>
 
-Coding since 12. Professional developer at 14.<br>
+**Indie Hacker, Software Engineer, Founder**
+
+Coding since 12. Working as developer since 14.<br>
 Youngest student and first to complete <a href="https://www.42lisboa.com">42 Lisbon</a> in Portugal.<br>
-Built 3D engines and ray tracers from scratch. Shipped AI products. Led engineering teams.
+Built 3D engines and ray tracers from scratch. Shipped products. Led engineering teams.
 
-Now focused on building my own things.
+Now focused again on building my own things.
 
 <br>
 
@@ -16,7 +18,7 @@ Now focused on building my own things.
   <img src="https://img.shields.io/badge/-@martiano-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" />
 </a>
 
-<br><br>
+<br>
 
 ---
 
@@ -24,7 +26,7 @@ Now focused on building my own things.
 
 <img src="https://skillicons.dev/icons?i=c,cpp,rust,cs,py,lua,coffeescript,php,js,ts,html,css,ruby,rails,vue,react,swift,androidstudio,nodejs,docker,aws,linux,nginx,redis,postgres,mysql,mongodb,dynamodb,unity,unreal,git,bash&perline=8&theme=dark" alt="Tech Stack" />
 
-<br><br>
+<br>
 
 ---
 
