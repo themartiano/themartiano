@@ -13,7 +13,7 @@ jobs:
           - name: Generates the Animation
             uses: Platane/snk@master
             with:
-                github_user_name: brhaka
+                github_user_name: themartiano
                 svg_out_path: dist/github-contrib-snake.svg
 
           - name: Push .svg to the output branch
