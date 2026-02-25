@@ -6,9 +6,9 @@
 
 Coding since 12. Professional developer at 14.<br>
 Youngest student and first to complete <a href="https://www.42lisboa.com">42 Lisbon</a> in Portugal.<br>
-Built operating systems and 3D engines from scratch. Shipped AI products. Led engineering teams.
+Built 3D engines and ray tracers from scratch. Shipped AI products. Led engineering teams.
 
-Now building my own thing.
+Now focused on building my own things.
 
 <br>
 
@@ -22,7 +22,7 @@ Now building my own thing.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=c,cpp,rust,cs,py,js,ts,php,vue,react,html,css,nodejs,docker,aws,linux,postgres,mysql,mongodb,dynamodb,unity,unreal,git,bash&perline=8&theme=dark" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=c,cpp,rust,cs,py,lua,coffeescript,php,js,ts,html,css,ruby,rails,vue,react,swift,androidstudio,nodejs,docker,aws,linux,nginx,redis,postgres,mysql,mongodb,dynamodb,unity,unreal,git,bash&perline=8&theme=dark" alt="Tech Stack" />
 
 <br><br>
 
