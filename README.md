@@ -33,14 +33,6 @@ Now focused again on building my own things.
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=themartiano&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&icon_color=58a6ff&include_all_commits=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=themartiano&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=24292e&text_color=586069&icon_color=0366d6&include_all_commits=true&count_private=true" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=themartiano&show_icons=true&hide_border=true&hide_rank=true&bg_color=00000000&title_color=ffffff&text_color=9f9f9f&icon_color=58a6ff&include_all_commits=true&count_private=true" />
-</picture>
-
-<br>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/themartiano/themartiano/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/themartiano/themartiano/output/github-snake.svg" />
   <img alt="Snake animation" src="https://raw.githubusercontent.com/themartiano/themartiano/output/github-snake.svg" />
