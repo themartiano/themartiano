@@ -14,11 +14,11 @@ Now focused again on building my own things.
 
 <br>
 
-<a href="https://martiano.me">
-  <img src="https://img.shields.io/badge/-martiano.me-000000?style=flat-square&logo=safari&logoColor=white" alt="Website" />
-</a>
 <a href="https://x.com/martiano">
   <img src="https://img.shields.io/badge/-@martiano-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)" />
+</a>
+<a href="https://martiano.me">
+  <img src="https://img.shields.io/badge/-martiano.me-000000?style=flat-square&logo=safari&logoColor=white" alt="Website" />
 </a>
 
 <br>
